@@ -1,0 +1,104 @@
+{
+  "dependencies": [
+    {
+      "name": "lime",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/mcagabe19-stuff/lime.git"
+    },
+    {
+      "name": "openfl",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "flixel",
+      "type": "git",
+      "dir": null,
+      "ref": "5.6.2",
+      "url": "https://github.com/MobilePorting/flixel.git"
+    },
+    {
+      "name": "flixel-addons",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "flixel-tools",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "flixel-ui",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "hxcpp",
+      "type": "git",
+      "dir": null,
+      "ref": "master",
+      "url": "https://github.com/mcagabe19-stuff/hxcpp.git"
+    },
+    {
+      "name": "hxCodec",
+      "type": "git",
+      "dir": null,
+      "ref": "cafc58e9046505ff93fa659339808b53faa5d6f3",
+      "url": "https://github.com/polybiusproxy/hxCodec"
+    },
+    {
+      "name": "hscript",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "hxcpp-debug-server",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "flxanimate",
+      "type": "git",
+      "dir": null,
+      "ref": "768740a56b26aa0c072720e0d1236b94afe68e3e",
+      "url": "https://github.com/Dot-Stuff/flxanimate"
+    },
+   {
+      "name": "hxdiscord_rpc",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/MAJigsaw77/hxdiscord_rpc"
+    },
+    {
+      "name": "linc_luajit",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/mcagabe19-stuff/linc_luajit-rewriten"
+    },
+    {
+      "name": "funkin.vis",
+      "type": "git",
+      "dir": null,
+      "ref": "22b1ce089dd924f15cdc4632397ef3504d464e90",
+      "url": "https://github.com/FunkinCrew/funkVis"
+    },
+    {
+      "name": "grig.audio",
+      "type": "git",
+      "dir": null,
+      "ref": "cbf91e2180fd2e374924fe74844086aab7891666",
+      "url": "https://gitlab.com/haxe-grig/grig.audio.git"
+    },
+    {
+      "name": "extension-androidtools",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/MAJigsaw77/extension-androidtools"
+    }
+  ]
+}
